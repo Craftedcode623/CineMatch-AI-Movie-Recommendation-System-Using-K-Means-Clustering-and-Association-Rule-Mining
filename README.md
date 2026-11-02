@@ -90,7 +90,8 @@ CineMatch-AI/
 ```
 
 ### Architecture
-![Architecture](assets/architecture.png)
+<img width="1541" height="861" alt="image" src="https://github.com/user-attachments/assets/c1e6ad4f-b6fd-46fb-b251-704759d70f76" />
+
 
 ### Workflow
 ![Workflow](assets/workflow.png)
