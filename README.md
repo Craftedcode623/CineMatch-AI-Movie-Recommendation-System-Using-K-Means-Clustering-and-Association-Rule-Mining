@@ -94,7 +94,7 @@ CineMatch-AI/
 
 
 ### Workflow
-![Workflow](assets/workflow.png)
+<img width="2192" height="723" alt="image" src="https://github.com/user-attachments/assets/4661a3f1-7660-4599-9760-7ea55e71e383" />
 
 ## 9. Installation and execution (Windows, VS Code terminal)
 
